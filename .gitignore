@@ -1,0 +1,4 @@
+#Inside .gitignore
+.DS_Store
+do_not_push.txt
+
